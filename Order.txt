@@ -1,0 +1,5 @@
+1 Fish
+2 Meat
+3 Rice
+4 Noodle
+5 Drink
